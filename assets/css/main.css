@@ -1641,6 +1641,7 @@ section,
 # Team Section
 --------------------------------------------------------------*/
 .team .team-member {
+  width: 100%;
   text-align: center;
   background-color: #ffffff;
   overflow: hidden;
